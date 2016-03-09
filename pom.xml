@@ -13,8 +13,7 @@
   <description>Language Pack for Chinese</description>
 
   <organization>
-    <name>Mossle</name>
-    <url>http://www.mossle.com</url>
+    <name>HP</name>
   </organization>
 
   <licenses>
@@ -69,10 +68,9 @@
 
   <developers>
     <developer>
-      <id>xuhuisheng</id>
-      <name>Xu Huisheng</name>
-      <organization>Mossle</organization>
-      <organizationUrl>http://www.mossle.com</organizationUrl>
+      <id>mashaowei</id>
+      <name>mashaowei</name>
+      <organization>HP</organization>
     </developer>
   </developers>
 
